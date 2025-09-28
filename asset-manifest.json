@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-quiz-app/static/css/main.bf937186.css",
-    "main.js": "/react-quiz-app/static/js/main.369acc4b.js",
-    "static/js/453.4875bad8.chunk.js": "/react-quiz-app/static/js/453.4875bad8.chunk.js",
-    "index.html": "/react-quiz-app/index.html",
-    "main.bf937186.css.map": "/react-quiz-app/static/css/main.bf937186.css.map",
-    "main.369acc4b.js.map": "/react-quiz-app/static/js/main.369acc4b.js.map",
-    "453.4875bad8.chunk.js.map": "/react-quiz-app/static/js/453.4875bad8.chunk.js.map"
+    "main.css": "/HSAnanya/react-quiz-app/static/css/main.bf937186.css",
+    "main.js": "/HSAnanya/react-quiz-app/static/js/main.a107e051.js",
+    "static/js/453.4875bad8.chunk.js": "/HSAnanya/react-quiz-app/static/js/453.4875bad8.chunk.js",
+    "index.html": "/HSAnanya/react-quiz-app/index.html",
+    "main.bf937186.css.map": "/HSAnanya/react-quiz-app/static/css/main.bf937186.css.map",
+    "main.a107e051.js.map": "/HSAnanya/react-quiz-app/static/js/main.a107e051.js.map",
+    "453.4875bad8.chunk.js.map": "/HSAnanya/react-quiz-app/static/js/453.4875bad8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf937186.css",
-    "static/js/main.369acc4b.js"
+    "static/js/main.a107e051.js"
   ]
 }
