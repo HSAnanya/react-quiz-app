@@ -1,15 +1,16 @@
-# ⏰ React Digital Clock
+# 🧠 React Quiz App
 
-A modern and visually appealing digital clock built using React. This project displays real-time updates with a stylish background video and a typewriter animation effect.
+An interactive quiz application built using React that allows users to answer questions and view their score instantly.
 
 ---
 
 ## 🚀 Features
 
-* 🕒 Real-time digital clock (updates every second)
-* 🎬 Background video UI
-* ✨ Typewriter animation effect
-* ⚛️ Built using React Hooks (`useState`, `useEffect`)
+* ❓ Multiple choice questions
+* 📊 Instant score calculation
+* 🔄 Restart quiz option
+* ⚛️ Built using React Hooks
+* 🎯 Simple and user-friendly UI
 
 ---
 
@@ -18,21 +19,19 @@ A modern and visually appealing digital clock built using React. This project di
 * React.js
 * JavaScript (ES6)
 * HTML5 & CSS3
-* react-simple-typewriter
 
 ---
 
 ## 📂 Folder Structure
 
-```id="ts5q4p"
-reactclock/
+```id="93m5a5"
+react-quiz-app/
 ├── public/
-│   ├── index.html
-│   ├── BackG1.mp4
-│   └── favicon.ico
+│   └── index.html
 ├── src/
 │   ├── App.js
-│   ├── DigitalClock.js
+│   ├── Quiz.js
+│   ├── Question.js
 │   ├── index.js
 │   ├── App.css
 │   └── index.css
@@ -46,25 +45,25 @@ reactclock/
 
 1. Clone the repository:
 
-```id="zsyx4f"
-git clone https://github.com/hsananya/reactclock.git
+```id="xq9lf6"
+git clone https://github.com/hsananya/react-quiz-app.git
 ```
 
 2. Navigate to the project:
 
-```id="tcd2t4"
-cd reactclock
+```id="f85zt4"
+cd react-quiz-app
 ```
 
 3. Install dependencies:
 
-```id="3lwlfq"
+```id="sskn5w"
 npm install
 ```
 
 4. Run the app:
 
-```id="w0n67n"
+```id="ww4zdc"
 npm start
 ```
 
@@ -72,7 +71,7 @@ npm start
 
 ## 🌐 Live Demo
 
-👉 https://hsananya.github.io/reactclock/
+👉 https://hsananya.github.io/react-quiz-app/
 
 ---
 
@@ -84,4 +83,4 @@ npm start
 
 ## ⭐ About
 
-This project demonstrates real-time UI updates using React and enhances user experience with animations and media integration.
+This project demonstrates handling user interaction, state management, and dynamic rendering in React.
