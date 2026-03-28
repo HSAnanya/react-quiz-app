@@ -9,7 +9,7 @@ A modern and visually appealing digital clock built using React. This project di
 * 🕒 Real-time digital clock (updates every second)
 * 🎬 Background video UI
 * ✨ Typewriter animation effect
-* ⚛️ Built using React Hooks ('useState', 'useEffect')
+* ⚛️ Built using React Hooks (`useState`, `useEffect`)
 
 ---
 
@@ -24,7 +24,7 @@ A modern and visually appealing digital clock built using React. This project di
 
 ## 📂 Folder Structure
 
-'''id="ts5q4p"
+```id="ts5q4p"
 reactclock/
 ├── public/
 │   ├── index.html
@@ -38,7 +38,7 @@ reactclock/
 │   └── index.css
 ├── package.json
 └── README.md
-'''
+```
 
 ---
 
@@ -46,27 +46,27 @@ reactclock/
 
 1. Clone the repository:
 
-'''id="zsyx4f"
+```id="zsyx4f"
 git clone https://github.com/hsananya/reactclock.git
-'''
+```
 
 2. Navigate to the project:
 
-'''id="tcd2t4"
+```id="tcd2t4"
 cd reactclock
-'''
+```
 
 3. Install dependencies:
 
-'''id="3lwlfq"
+```id="3lwlfq"
 npm install
-'''
+```
 
 4. Run the app:
 
-'''
+```id="w0n67n"
 npm start
-'''
+```
 
 ---
 
